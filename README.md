@@ -31,5 +31,5 @@
 - ✨ **Passionate about JavaScript & Web Technologies**
 - ✉️ **Contact me at:** [olimgulomov98@gmail.com](mailto:olimgulomov98@gmail.com) 
 - 👤 **Let's Connect:** [Telegram](http://t.me/gulomov98)
-
+- 🌐 **Location:** Uzbekistan, Anywhere
 
