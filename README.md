@@ -32,4 +32,6 @@
 - ✉️ **Contact me at:** [olimgulomov98@gmail.com](mailto:olimgulomov98@gmail.com) 
 - 👤 **Let's Connect:** [Telegram](http://t.me/gulomov98)
 - 🌐 **Location:** Uzbekistan, Anywhere
+- 🔗 **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/olim-gulamov-64629334a/)
+- 🌍 **Portfolio:** [Your Portfolio](https://olim-portfolio.netlify.app/)
 
