@@ -29,7 +29,7 @@
 ### 📙 About Me:
 - 💼 **Frontend & Backend Developer**
 - ✨ **Passionate about JavaScript & Web Technologies**
-- ✉️ **Contact me at:** [olimgulomov98@gmail.com](mailto:olimgulomov98@gmail.com) 
+- ✉️ **Contact me at:** [olimjongulamov98@gmail.com](mailto:olimjongulamov98@gmail.com) 
 - 👤 **Let's Connect:** [Telegram](http://t.me/gulomov98)
 - 🌍 **Portfolio:** [My Portfolio](https://olim-portfolio.netlify.app/)
 - 🔗 **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/olim-gulamov-64629334a/)
